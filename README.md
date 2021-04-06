@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrar19
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS Libraries and Frameworks Full Stack JS Development
+- 🌱 I’m currently learning JS Libraries and Frameworks for Full Stack JS Development
 - 📫 How to reach me: www.fb.com/abm.abrar or mail me at abm.abrar@gmail.com
 
 <!---
