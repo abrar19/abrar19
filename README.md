@@ -1,6 +1,6 @@
 - Hi, I’m ABRAR HAQUE
 - I’m a Web Development Enthusiast
-- I’m proficient in JAVA, Vanilla JS, React
+- I’m proficient in JAVA, HTML, CSS, Vanilla JS, React
 - I do problem solving on a time to time basis to keep my logics sharp
 - I am available at: abm.abrar@gmail.com or https://www.linkedin.com/in/abrar19/
 
